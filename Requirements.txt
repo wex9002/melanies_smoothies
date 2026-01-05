@@ -1,3 +1,4 @@
 # reguirments.txt
 snowflake-snowpark-python
-treamlit
+streamlit
+requests
